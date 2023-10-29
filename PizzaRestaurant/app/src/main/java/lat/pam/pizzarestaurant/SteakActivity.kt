@@ -12,7 +12,7 @@ class SteakActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_steak)
 
-        val menu = findViewById<TextView>(R.id.burger_name)
+        val menu = findViewById<TextView>(R.id.steak_name)
         val btnBack = findViewById<Button>(R.id.button_back)
         val btnOrder = findViewById<Button>(R.id.button_order)
 
