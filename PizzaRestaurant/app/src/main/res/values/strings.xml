@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pizza Restaurant</string>
+    <string name="store_lable_text">Store</string>
+    <string name="name_label_text">Your Name</string>
+    <string name="enter_name_hint">Please fill your name</string>
+    <string name="submit_text">Submit</string>
+    <string name="see_menu_text">See Menus</string>
+    <string name="pizza_desc">Cocok bagi Anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="spaghetti_desc">Cocok bagi Anda yang ingin merasakan spaghetti original dengan bumbu oriental</string>
+    <string name="burger_desc">Cocok bagi Anda yang ingin merasakan kelembutan burgeur originalberlapisan keju, sayuran, dan daging yang tebal</string>
+    <string name="steak_desc">Cocok bagi Anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+    <string name="pizza_name">Pepperoni Pizza</string>
+    <string name="spaghetti_name">Spaghetti</string>
+    <string name="burger_name">Burger</string>
+    <string name="steak_name">Steak</string>
+    <string name="pizza_detail_desc">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi aseli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupub malam Anda</string>
+    <string name="burger_detail_desc">Nikmati kelezatan yang tiada tara dengan burger istimewa dari kami. Dibuat dengan cinta dan dedikasi, burger kami adalah perpaduan sempurna antara daging sapi pilihan yang diolah secara khusus, sayuran segar, dan saus spesial yang memukau lidah Anda. Setiap gigitan menghadirkan cita rasa yang memanjakan selera, dengan tekstur daging yang juicy dan kenikmatan dari paduan rasa yang seimbang</string>
+    <string name="spaghetti_detail_desc">Nikmati kelezatan autentik Italia dalam setiap gigitan dengan hidangan spaghetti istimewa dari kami. Setiap piring menghadirkan pengalaman kuliner yang memikat dengan pasta al dente yang lembut dan saus khas yang menyatu dengan sempurna. Dibuat dengan bahan-bahan berkualitas tinggi, setiap helai spaghetti mengalami perlakuan khusus untuk memastikan cita rasa yang mengagumkan</string>
+    <string name="steak_detail_desc">Selamatkan selera Anda dengan pengalaman memikat dari hidangan steak khas kami. Dipersiapkan dengan penuh dedikasi, setiap potongan daging sapi pilihan kami menghadirkan kelezatan yang tak tertandingi. Dipanggang sempurna untuk mempertahankan kelembutan dan cita rasa alami, setiap gigitan steak adalah perpaduan sempurna antara tekstur lembut dan cita rasa yang memukau</string>
+    <string-array name="stores_array">
+        <item>Cihampelas</item>
+        <item>Cicaheum</item>
+        <item>Ujungberung</item>
+        <item>Cibiru</item>
+        <item>Cileunyi</item>
+    </string-array>
+</resources>
